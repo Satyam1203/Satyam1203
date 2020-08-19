@@ -27,15 +27,29 @@
 
 #### :chart_with_upwards_trend: &emsp; Other Profiles
 
-  
-[![LinkedIn](https://github.com/Satyam1203/Satyam1203/blob/master/images/linkedin.png?raw=true)](https://www.linkedin.com/in/satyam1203)&emsp;[![CodeChef](https://github.com/Satyam1203/Satyam1203/blob/master/images/codechef.png?raw=true)](https://www.codechef.com/users/sat_yam_)&emsp;[![HackerRank](https://github.com/Satyam1203/Satyam1203/blob/master/images/hackerrank.png?raw=true)](https://www.hackerrank.com/sat_yam_)&emsp;[![Leetcode](https://github.com/Satyam1203/Satyam1203/blob/master/images/leetcode.png?raw=true)](https://leetcode.com/sat_yam_/)
 
-  
+<a href="https://www.linkedin.com/in/satyam1203">
+    <img alt="LinkedIn" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/linkedin.png?raw=true" width="32px" align="left"/>
+</a>
+<a href="https://www.codechef.com/users/sat_yam_">
+    <img alt="CodeChef" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/codechef.png?raw=true" width="32px" align="left"/>
+</a>
+<a href="https://www.hackerrank.com/sat_yam_">
+    <img alt="HackerRank" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/hackerrank.png?raw=true" width="32px" align="left"/>
+</a>
+<a href="https://leetcode.com/sat_yam_/">
+    <img alt="Leetcode" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/leetcode.png?raw=true" width="32px" align="left"/>
+</a>
+
+<br />
 
 #### :mailbox_with_mail: &emsp; Reach out to me
 
-  
 
-[![Email](https://github.com/Satyam1203/Satyam1203/blob/master/images/email.png?raw=true)](mailto:nakulbegana191170@gmail.com)&emsp;[![Form](https://github.com/Satyam1203/Satyam1203/blob/master/images/form.png?raw=true)](https://forms.gle/kHNHaEueCBGYMUHd9)
+<a href="mailto:nakulbegana191170@gmail.com">
+    <img alt="Email" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/email.png?raw=true" width="32px" align="left"/>
+</a>
+<a href="https://forms.gle/kHNHaEueCBGYMUHd9">
+    <img alt="Form" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/form.png?raw=true" width="36px" align="left"/>
+</a>
 
-  
