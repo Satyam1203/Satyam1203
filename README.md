@@ -1,7 +1,7 @@
 ## :octocat: Hello, I'm [Satyam](https://saty12.me/projects/)
   
 
-[![HitCount](http://hits.dwyl.com/Satyam1203/Satyam1203.svg)](http://hits.dwyl.com/Satyam1203/Satyam1203)&emsp;![GitHub followers](https://img.shields.io/github/followers/satyam1203?style=social)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=satyam1203.satyam1203)](https://visitor-badge.glitch.me/badge?page_id=satyam1203.satyam1203)&emsp;![GitHub followers](https://img.shields.io/github/followers/satyam1203?style=social)
 
 
 <img  align="right"  src="https://octodex.github.com/images/surftocat.png"  width="200">
@@ -52,4 +52,3 @@
 <a href="https://forms.gle/kHNHaEueCBGYMUHd9">
     <img alt="Form" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/form.png?raw=true" width="36px" align="left"/>
 </a>
-
