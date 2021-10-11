@@ -1,4 +1,4 @@
-## :octocat: Hello, I'm [Satyam](https://portfolio-satyam.now.sh)
+## :octocat: &emsp; Hello, I'm [Satyam](https://portfolio-satyam.now.sh)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=satyam1203.satyam1203)](https://visitor-badge.glitch.me/badge?page_id=satyam1203.satyam1203)&emsp;![GitHub followers](https://img.shields.io/github/followers/satyam1203?style=social)
 
@@ -18,16 +18,18 @@
     ![Satyam's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1203&layout=compact)
 -->
 
-<hr />
-
 ## :memo: &emsp; Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [all_of, any_of, none_of: Examine a range of elements for a particular condition in C++](https://dev.to/satyam1203/allof-anyof-noneof-examine-a-range-of-elements-for-a-particular-condition-in-c-1cpg)
+- [Lambda functions in C++](https://dev.to/satyam1203/lambda-functions-in-c-76l)
+- [Factor Operations: gcd and lcm functions in C++](https://dev.to/satyam1203/factor-operations-gcd-and-lcm-functions-in-c-7af)
 <!-- BLOG-POST-LIST:END -->
 
-<hr />
+[more](https://dev.to/satyam1203)
 
-#### :chart_with_upwards_trend: &emsp; Other Profiles
+## :chart_with_upwards_trend: &emsp; Other Profiles
 
 <a href="https://www.linkedin.com/in/satyam1203">
     <img alt="LinkedIn" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/linkedin.png?raw=true" width="32px" align="left"/>
@@ -47,7 +49,7 @@
 
 <br />
 
-#### :mailbox_with_mail: &emsp; Reach out to me
+## :mailbox_with_mail: &emsp; Reach out to me
 
 <a href="mailto:nakulbegana191170@gmail.com">
     <img alt="Email" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/email.png?raw=true" width="32px" align="left"/>
