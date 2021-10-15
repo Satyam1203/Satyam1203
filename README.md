@@ -21,9 +21,9 @@
 ## :memo: &emsp; Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [for_each: Apply a function to a range of elements in C++](https://dev.to/satyam1203/foreach-apply-a-function-to-a-range-of-elements-in-c-4b1g)
 - [all_of, any_of, none_of: Examine a range of elements for a particular condition in C++](https://dev.to/satyam1203/allof-anyof-noneof-examine-a-range-of-elements-for-a-particular-condition-in-c-1cpg)
 - [Lambda functions in C++](https://dev.to/satyam1203/lambda-functions-in-c-76l)
-- [Factor Operations: gcd and lcm functions in C++](https://dev.to/satyam1203/factor-operations-gcd-and-lcm-functions-in-c-7af)
 <!-- BLOG-POST-LIST:END -->
 
 [more](https://dev.to/satyam1203)
