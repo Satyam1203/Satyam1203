@@ -36,10 +36,7 @@
 <a href="https://www.codechef.com/users/sat_yam_">
     <img alt="CodeChef" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/codechef2.png?raw=true" width="32px" align="left"/>
 </a>
-<a href="https://www.hackerrank.com/sat_yam_">
-    <img alt="HackerRank" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/hackerrank.png?raw=true" width="32px" align="left"/>
-</a>
-<a href="https://leetcode.com/sat_yam_/">
+<a href="https://leetcode.com/satyam1203/">
     <img alt="Leetcode" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/leetcode.png?raw=true" width="32px" align="left"/>
 </a>
 <a href="https://codepen.io/satyam1203/">
@@ -51,7 +48,7 @@
 ## :mailbox_with_mail: &emsp; Reach out to me
 
 <a href="mailto:nakulbegana191170@gmail.com">
-    <img alt="Email" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/email.png?raw=true" width="32px" align="left"/>
+    <img alt="Email" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/email.png?raw=true" width="30px" align="left"/>
 </a>
 <a href="https://forms.gle/kHNHaEueCBGYMUHd9">
     <img alt="Form" src="https://github.com/Satyam1203/Satyam1203/blob/master/images/form.png?raw=true" width="36px" align="left"/>
