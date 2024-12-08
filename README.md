@@ -1,24 +1,26 @@
-## :octocat: &emsp; Hello, I'm [Satyam](https://portfolio-satyam.now.sh)
+## :octocat: &emsp; Hello, I'm [Satyam](https://portfolio-satyam.vercel.app)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=satyam1203.satyam1203)](https://visitor-badge.glitch.me/badge?page_id=satyam1203.satyam1203)&emsp;![GitHub followers](https://img.shields.io/github/followers/satyam1203?style=social)
+![GitHub followers](https://img.shields.io/github/followers/satyam1203?style=social)
+![Stars](https://img.shields.io/github/stars/satyam1203)
 
 <img  align="right"  src="https://octodex.github.com/images/surftocat.png"  width="200">
 
-- :microscope: Learning web Technologies
+- :briefcase: SSE at Birdeye
 
-- :sparkles: ReactJS Enthusiast
+- :sparkles: Engineering. Specialization in Frontend technologies
 
-- :computer: Love building web applications
+- :microscope: Learning and building stuff around the web
 
-- :briefcase: Have an idea? Ready to collaborate.
+- :computer:  Have an idea? Let's talk about it
 
-![Satyam's Github Stats](https://github-readme-stats.vercel.app/api?username=satyam1203&count_private=true&show_icons=true&include_all_commits=true)
+
+![Satyam's Github Stats](https://github-readme-stats.vercel.app/api?username=satyam1203&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true&include_all_commits=true)
 
 <!--
     ![Satyam's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1203&layout=compact)
 -->
 
-## :memo: &emsp; Blog posts
+## :memo: &emsp; Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [for_each: Apply a function to a range of elements in C++](https://dev.to/satyam1203/foreach-apply-a-function-to-a-range-of-elements-in-c-4b1g)
